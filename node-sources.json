@@ -1,10 +1,10 @@
 [
     {
         "type": "file",
-        "url": "https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.0.tgz",
-        "sha512": "9444cdd3985c1adc9ca93cd37e4ababeb21b345661d1e76faf96324fedef50b4bde55e31a1bbf958014e7d5833a1d5f76bad56dcc0c0a14b86f6e5fe750b4358",
-        "dest-filename": "cdd3985c1adc9ca93cd37e4ababeb21b345661d1e76faf96324fedef50b4bde55e31a1bbf958014e7d5833a1d5f76bad56dcc0c0a14b86f6e5fe750b4358",
-        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/94/44"
+        "url": "https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.2.tgz",
+        "sha512": "c4899b542febfbcbaf5112cf41a13d45dc1ce0af76772f0a04aa34a724bf971c6c52e65992186896cf4734dd331040205e384dcad2ceebd1dd142c1874bd5efd",
+        "dest-filename": "9b542febfbcbaf5112cf41a13d45dc1ce0af76772f0a04aa34a724bf971c6c52e65992186896cf4734dd331040205e384dcad2ceebd1dd142c1874bd5efd",
+        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/c4/89"
     },
     {
         "type": "file",
@@ -1131,9 +1131,9 @@
     },
     {
         "type": "inline",
-        "contents": "dbec5e1e308b40b19f5bdccf74d15a144aa0da74\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.0.tgz\", \"integrity\": \"sha512-lETN05hcGtycqTzTfkq6vrIbNFZh0edvr5YyT+3vULS95V4xobv5WAFOfVgzodX3a61W3MDAoUuG9uX+dQtDWA==\", \"time\": 0, \"size\": 3594, \"metadata\": {\"url\": \"https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.0.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
-        "dest-filename": "7d148a18961467d8c179db1e4201d254318fb5e14a9aa8e64803632378b4",
-        "dest": "flatpak-node/npm-cache/_cacache/index-v5/7c/1c"
+        "contents": "db79101ca8f3f2d5ff3b4b86c5d9b20a64bcf037\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.2.tgz\", \"integrity\": \"sha512-xImbVC/r+8uvURLPQaE9Rdwc4K92dy8KBKo0pyS/lxxsUuZZkhhols9HNN0zEEAgXjhNytLO69HdFCwYdL1e/Q==\", \"time\": 0, \"size\": 3953, \"metadata\": {\"url\": \"https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.2.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
+        "dest-filename": "2ed74d5f01ae483aa96144f39ec1ee293eb36d939eef72094b0291c4cea3",
+        "dest": "flatpak-node/npm-cache/_cacache/index-v5/be/62"
     },
     {
         "type": "inline",
