@@ -1,10 +1,10 @@
 [
     {
         "type": "file",
-        "url": "https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.2.tgz",
-        "sha512": "c4899b542febfbcbaf5112cf41a13d45dc1ce0af76772f0a04aa34a724bf971c6c52e65992186896cf4734dd331040205e384dcad2ceebd1dd142c1874bd5efd",
-        "dest-filename": "9b542febfbcbaf5112cf41a13d45dc1ce0af76772f0a04aa34a724bf971c6c52e65992186896cf4734dd331040205e384dcad2ceebd1dd142c1874bd5efd",
-        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/c4/89"
+        "url": "https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.3.tgz",
+        "sha512": "4edf6dd69784d90287e4f4246fbdeaeafa65a18ac349bfb154e60aa08f23470cd9e23988e00a944202e5bca729ded5588d693ec4e72a8cdb610f55c705af496d",
+        "dest-filename": "6dd69784d90287e4f4246fbdeaeafa65a18ac349bfb154e60aa08f23470cd9e23988e00a944202e5bca729ded5588d693ec4e72a8cdb610f55c705af496d",
+        "dest": "flatpak-node/npm-cache/_cacache/content-v2/sha512/4e/df"
     },
     {
         "type": "file",
@@ -1096,6 +1096,12 @@
     },
     {
         "type": "inline",
+        "contents": "c0ad9b06703f07001b234b353fafec1999eb7b19\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.3.tgz\", \"integrity\": \"sha512-Tt9t1peE2QKH5PQkb73q6vploYrDSb+xVOYKoI8jRwzZ4jmI4AqUQgLlvKcp3tVYjWk+xOcqjNthD1XHBa9JbQ==\", \"time\": 0, \"size\": 3962, \"metadata\": {\"url\": \"https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.3.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
+        "dest-filename": "df63d5a3d4a25f5aa8e54fc8c6443edfe960fe348080e770915e19b267b9",
+        "dest": "flatpak-node/npm-cache/_cacache/index-v5/aa/53"
+    },
+    {
+        "type": "inline",
         "contents": "c2a2aaf04639112e3420b6ae6b4c479b72b0c974\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/lightningcss-win32-arm64-msvc/-/lightningcss-win32-arm64-msvc-1.32.0.tgz\", \"integrity\": \"sha512-8SbC8BR40pS6baCM8sbtYDSwEVQd4JlFTOlaD3gWGHfThTcABnNDBda6eTZeqbofalIJhFx0qKzgHJmcPTnGdw==\", \"time\": 0, \"size\": 3421578, \"metadata\": {\"url\": \"https://registry.npmjs.org/lightningcss-win32-arm64-msvc/-/lightningcss-win32-arm64-msvc-1.32.0.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
         "dest-filename": "bae37bb1037632e1e3ad0a59862f73d144ac21877740c2b00058709cb2b6",
         "dest": "flatpak-node/npm-cache/_cacache/index-v5/a6/64"
@@ -1141,12 +1147,6 @@
         "contents": "da4f2b7748cf096c1b74845c9b4024c7cd7e548b\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/lightningcss/-/lightningcss-1.32.0.tgz\", \"integrity\": \"sha512-NXYBzinNrblfraPGyrbPoD19C1h9lfI/1mzgWYvXUTe414Gz/X1FD2XBZSZM7rRTrMA8JL3OtAaGifrIKhQ5yQ==\", \"time\": 0, \"size\": 86978, \"metadata\": {\"url\": \"https://registry.npmjs.org/lightningcss/-/lightningcss-1.32.0.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
         "dest-filename": "2017c71f46d1c1ee8b9b7cd2fa4f555bf5a0a2c3cf40d280db10380bae2e",
         "dest": "flatpak-node/npm-cache/_cacache/index-v5/4c/68"
-    },
-    {
-        "type": "inline",
-        "contents": "db79101ca8f3f2d5ff3b4b86c5d9b20a64bcf037\t{\"key\": \"make-fetch-happen:request-cache:https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.2.tgz\", \"integrity\": \"sha512-xImbVC/r+8uvURLPQaE9Rdwc4K92dy8KBKo0pyS/lxxsUuZZkhhols9HNN0zEEAgXjhNytLO69HdFCwYdL1e/Q==\", \"time\": 0, \"size\": 3953, \"metadata\": {\"url\": \"https://registry.npmjs.org/@aceandgaming/swarmfm-api/-/swarmfm-api-1.1.2.tgz\", \"reqHeaders\": {}, \"resHeaders\": {}}}",
-        "dest-filename": "2ed74d5f01ae483aa96144f39ec1ee293eb36d939eef72094b0291c4cea3",
-        "dest": "flatpak-node/npm-cache/_cacache/index-v5/be/62"
     },
     {
         "type": "inline",
